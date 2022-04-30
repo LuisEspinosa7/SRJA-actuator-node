@@ -16,7 +16,7 @@ the following technologies and tools:
 </table>
 
 ## Video
-Two videos exposing the functionality of the complete proyect.
+A video exposing the functionality of the complete proyect.
 
 https://youtu.be/R3nJAr5eoEk
 
