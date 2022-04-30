@@ -34,4 +34,4 @@ This proyect is quite simple, and is part of my personal portfolio, so it is not
 
 
 ## License
-It is free.
+Protected by author's rights
